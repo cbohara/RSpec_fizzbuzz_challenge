@@ -25,7 +25,3 @@ Your program will write to stdout.
 
 How can we be confident that the correct output is written to stdout without going through the step of
 creating auxilary files in the testing process?
-
-Submitting
-
-Please simply post your solution files as a private gist on GitHub and send the link to your Q-Centrix contact. Thanks!
