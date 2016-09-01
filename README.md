@@ -16,6 +16,7 @@ functions properly for non-negative integers N.
 Your program should work as follows (for N=3):
 
 ruby fizz_buzz.rb 3
+
 With resulting output:
 
 1
