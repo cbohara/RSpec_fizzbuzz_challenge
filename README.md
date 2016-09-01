@@ -22,6 +22,7 @@ With resulting output:
 1
 2
 Fizz
+
 Your program will write to stdout.
 
 How can we be confident that the correct output is written to stdout without going through the step of
